@@ -1,7 +1,7 @@
 {
   "name": "angular-payments",
   "version": "0.1.1",
-  "homepage": "https://github.com/printklub/angular-payments",
+  "homepage": "https://github.com/laurihy/angular-payments",
   "authors": [
     "Lauri Hynynen <@laurihy>"
   ],
@@ -21,6 +21,9 @@
     "**/.*",
     "node_modules",
     "bower_components",
+    "Gruntfile.js",
+    "example",
+    "src",
     "test",
     "tests"
   ]
